@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "smc-inference-server",
+  "versions": [
+    {
+      "commit": "4c5fade5ef89965079c5866ff302893227491e3d",
+      "parsed_at": "2026-10-04T14:41:09.376275+00:00",
+      "tag": "main",
+      "filetree": "filetree/4c5fade5ef89965079c5866ff302893227491e3d.nq.gz",
+      "blobs": [
+        "blob/e8c44df3c8d763febea33d1b8496777f11356d27.nq.gz",
+        "blob/fb58c4e4c53204625732f2fcc2ab3f29f9a9808e.nq.gz",
+        "blob/7d8e8dd8d359876f09fce8a1d664b0974b527926.nq.gz",
+        "blob/4913224fd65fdcb871435376de1d0e706d2c90c9.nq.gz",
+        "blob/296bb61ae97abad2e512e66b7a271550d259406a.nq.gz",
+        "blob/7f314b78da20ddef791d45ab482a38330a7a61ac.nq.gz",
+        "blob/8c274fa4e826d85c64768a457228839270219c98.nq.gz",
+        "blob/917590770b6d2d93e5743caa477a7c37a11691f4.nq.gz",
+        "blob/8b37f0728cd29326bff9561a8739d229a89d1beb.nq.gz",
+        "blob/0582420b718635426cb4e5d82e2dbd2ca0a8769d.nq.gz",
+        "blob/429fb25b7615c923a6e3abe990c342805d84c6f1.nq.gz",
+        "blob/1680faf1de82734e1765c0b34fb41cc03f2051b1.nq.gz",
+        "blob/e40e67168f18f514de869ae213cc90d26b52f0b7.nq.gz",
+        "blob/6d4b1b2b758b25bc396b486d9e5a99c680160f4f.nq.gz",
+        "blob/ff92257e0fd0cd571c836314cc32e3734bffe97f.nq.gz",
+        "blob/80b122e710d6972c65c709d5028a268bc6abf091.nq.gz",
+        "blob/93c2219b9494fce612a23d3a23428905832e239b.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/cf8af47996013be3ed3ddf2ffb4038f23852e942.nq.gz",
+        "blob/6be0fbdb888a3b111ff4c58cc305693a1abdacde.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
