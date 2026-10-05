@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "smc-inference-server",
+  "versions": [
+    {
+      "commit": "4c5fade5ef89965079c5866ff302893227491e3d",
+      "tag": "main",
+      "parsed_at": "2026-10-05T09:48:10.930305+00:00"
+    }
+  ]
+}
